@@ -1,5 +1,6 @@
 {
   "name": "license-checker-boilerplate",
   "description": "Basic boilerplate for the License-Action Github Action",
+  "version": "0.1.0",
   "license": "MIT"
 }
