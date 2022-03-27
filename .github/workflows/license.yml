@@ -19,4 +19,4 @@ jobs:
       - name: Setup Node.js environment
         uses: actions/setup-node@v3.0.0
       - name: Check Licenses
-        uses: YieldingExploiter/License-Action@ab549080e28ff86d8322bb70eb4db1e6d0d5cc9a
+        uses: YieldingExploiter/License-Action@058be41c45bf52a740a830895fa78f9c9b19591f
